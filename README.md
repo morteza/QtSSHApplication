@@ -1,4 +1,4 @@
 QtSSHApplication
 ================
 
-Qt/C++ application and SSH binding (last update: December 3, 2012)
+Qt/C++ application and SSH binding (last update: December 3, 2010)
